@@ -1,6 +1,6 @@
 This Repository contains some projects I have worked on as a student and for my own curiousity.
 
-Exployee Attrition Classification Model: This model classifies whether an employee will stay or leave at a company
+Employee Attrition Classification Model: This model classifies whether an employee will stay or leave at a company
 
 Max Fried: This is folder uncovers, my python predictive model on the New York Yankees pitcher Max Fried, trying to predict what pitch he will throw in certain scenarios.
 
